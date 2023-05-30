@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": 1, "name": "John Doe", "age": 30 },
-    { "id": 2, "name": "Jane Doe", "age": 25 }
+    { "id": 1, "name": "John Doe", "age": 30, "test1": 2, "test2": 3, "test3": 4 },
+    { "id": 2, "name": "Jane Doe", "age": 25, "test1": 2, "test2":3, "test3": 4}
   ]
 }
